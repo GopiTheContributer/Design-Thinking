@@ -11,8 +11,14 @@ Design Thinking: Learn How to Solve Problems Like a Designer
 
 What is decomposition?
      Decomposition is one of the four cornerstones of Computer Science. It involves breaking down a complex problem or system into smaller parts that are more manageable and easier to understand. The smaller parts can then be examined and solved, or designed individually, as they are simpler to work with.
-     
-     
+
+What is abstraction?
+      It involves filtering out – essentially, ignoring - the characteristics that we don't need in order to concentrate on those that we do.
+       
+       We noted that all cats have general characteristics, which are common to all cats, eg eyes, a tail, fur, a liking for fish and the ability to make meowing sounds. In addition, each cat has specific characteristics, such as black fur, a long tail, green eyes, a love of salmon, and a loud meow. These details are known as specifics.
+
+In order to draw a basic cat, we do need to know that it has a tail, fur and eyes. These characteristics are relevant. We don't need to know what sound a cat makes or that it likes fish. These characteristics are irrelevant and can be filtered out. We do need to know that a cat has a tail, fur and eyes, but we don't need to know what size and colour these are. These specifics can be filtered out.
+
 
 Recursive Decomposion : Algorithimic approach
 
