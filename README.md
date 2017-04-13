@@ -82,6 +82,7 @@ The complex problem of the committed crime has now been broken down into simpler
 
 
 Srcs:
+http://www.programmingforbiologists.org/material/problem-decomposition/
 http://www.bbc.co.uk/education/guides/zqqfyrd/revision/1
 https://www.wethinq.com/en/blog/2016/03/15/Design-thinking-for-big-problems.html
 https://medium.com/the-many/the-problem-with-design-thinking-988b88f1d696
